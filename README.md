@@ -23,19 +23,6 @@ Code is running on
 + http://localhost:3000/
 
 # Instructions for using
-1. Download this Github repo
-2. In powershell terminal, type `npm start`
-3. Go to localhost:3000
-4. Tweets Section
-    - Click get tweets to see user tweets
-    - You can create a tweet by typing a number followed by a semicolon then your message
-    - To delete a tweet, type in the accurate ID of the tweet you want to delete
-5. Users Section
-    - Click get users to see users
-    - To update a user, type in the user's name followed by a semicolon then the new screen name
-6. Search Tweet Section
-    - In the text box, type the tweet ID you want to search then click `Search`
-    - Then click `Recently Search` to see the tweets you have searched
 
 ## In the tweets section 
 
