@@ -1,3 +1,9 @@
+function test_print(){
+
+  console.log("test code")
+
+}
+
 $(function () {
   //Get user
   $('#get-button').on('click', function () {
